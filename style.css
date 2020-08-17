@@ -1,0 +1,46 @@
+body {
+  background-color: #5138c2;
+  text-align: center;
+  font-family: "Gugi", cursive;
+}
+
+h1 {
+  color: #fff;
+  font-size: 3rem;
+}
+
+.container {
+  background-color: #6647e9;
+  margin: 20px auto;
+  border-radius: 30px;
+  text-align: center;
+  width: 700px;
+}
+
+.comment {
+  color: #fff;
+  padding: 20px;
+  font-size: 1.5rem;
+}
+
+img {
+  width: 200px;
+  padding: 20px;
+  margin: 0px auto;
+  cursor: pointer;
+}
+
+span {
+  color: #fff;
+  font-size: 20px;
+  display: block;
+  padding-bottom: 30px;
+}
+
+.bigger {
+  width: 100%;
+}
+
+.invisible {
+  display: none;
+}
